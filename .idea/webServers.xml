@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fd63bab-754e-420c-88f8-ee405387c52b" name="yifangwang" url="http://127.0.0.1:3000">
+        <fileTransfer host="ftphoulonglong.gotoftp11.com" port="21" rootFolder="/wwwroot" password="dfdbdfccdfdedf93dfdddfc2dfdedfc1df99dfde" username="ftphoulonglong">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
